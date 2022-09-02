@@ -18,5 +18,16 @@
   
   
     
+    
+    <entry>
+      <title>playlist</title>
+      <link href="/playlist/index.html"/>
+      <url>/playlist/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
   
 </search>
