@@ -20,22 +20,22 @@
     
     
     <entry>
-      <title></title>
-      <link href="/manifest.json"/>
-      <url>/manifest.json</url>
+      <title>playlist</title>
+      <link href="/playlist/index.html"/>
+      <url>/playlist/index.html</url>
       
-        <content type="html"><![CDATA[{"name":"义说`Blog","short_name":"义说","theme_color":"#49b1f5","background_color":"#49b1f5","display":"standalone","scope":"/","start_url":"/","icons":[{"src":"/img/siteicon/16.png","sizes":"16x16","type":"image/png"},{"src":"/img/siteicon/32.png","sizes":"32x32","type":"image/png"},{"src":"/img/siteicon/48.png","sizes":"48x48","type":"image/png"},{"src":"/img/siteicon/64.png","sizes":"64x64","type":"image/png"},{"src":"/img/siteicon/128.png","sizes":"128x128","type":"image/png"},{"src":"/img/siteicon/144.png","sizes":"144x144","type":"image/png"},{"src":"/img/siteicon/512.png","sizes":"512x512","type":"image/png"}],"splash_pages":null}]]></content>
+        <content type="html"><![CDATA[    <div id="aplayer-eUJpxZWp" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="2092610224" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"    ></div>]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>playlist</title>
-      <link href="/playlist/index.html"/>
-      <url>/playlist/index.html</url>
+      <title></title>
+      <link href="/manifest.json"/>
+      <url>/manifest.json</url>
       
-        <content type="html"><![CDATA[    <div id="aplayer-LtMUKnEm" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="2092610224" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"    ></div>]]></content>
+        <content type="html"><![CDATA[{"name":"义说`Blog","short_name":"义说","theme_color":"#49b1f5","background_color":"#49b1f5","display":"standalone","scope":"/","start_url":"/","icons":[{"src":"/img/siteicon/16.png","sizes":"16x16","type":"image/png"},{"src":"/img/siteicon/32.png","sizes":"32x32","type":"image/png"},{"src":"/img/siteicon/48.png","sizes":"48x48","type":"image/png"},{"src":"/img/siteicon/64.png","sizes":"64x64","type":"image/png"},{"src":"/img/siteicon/128.png","sizes":"128x128","type":"image/png"},{"src":"/img/siteicon/144.png","sizes":"144x144","type":"image/png"},{"src":"/img/siteicon/512.png","sizes":"512x512","type":"image/png"}],"splash_pages":null}]]></content>
       
     </entry>
     
