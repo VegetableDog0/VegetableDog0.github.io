@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-09-02T09:57:44.517Z</updated>
+  <updated>2022-09-23T12:15:23.427Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>A PIGEON（鸽子）</title>
+    <link href="http://example.com/posts/ee1f3e08.html"/>
+    <id>http://example.com/posts/ee1f3e08.html</id>
+    <published>2022-09-23T12:10:55.804Z</published>
+    <updated>2022-09-23T12:15:23.427Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="A-PIGEON（鸽子）"><a href="#A-PIGEON（鸽子）" class="headerlink" title="A PIGEON（鸽子）"></a>A PIGEON（鸽子）</h1><p>A pigeon, oppressed by excessive thirst, saw a goblet of water painted on a signboard. Not supposing it to be only a picture, she flew towards it with a loud whir and unwittingly dashed against the signboard, jarring herself terribly. Having broken her wings by the blow, she fell to the ground, and was caught by one of the bystanders.</p><p>Moral：Zeal should not outrun discretion.</p><p>一只鸽子口渴得很难受，看见画板上画着一只水杯。她并不以为那只是一幅画，而是发出一声响亮的呼噜声，朝画飞去，无意中撞在了招牌上，把自己撞得很不稳。她的翅膀被风吹断了，摔在地上，被一个旁观者抓住。</p><p>寓意：热情不应超过谨慎。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;A-PIGEON（鸽子）&quot;&gt;&lt;a href=&quot;#A-PIGEON（鸽子）&quot; class=&quot;headerlink&quot; title=&quot;A PIGEON（鸽子）&quot;&gt;&lt;/a&gt;A PIGEON（鸽子）&lt;/h1&gt;&lt;p&gt;A pigeon, oppressed by excessi</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
